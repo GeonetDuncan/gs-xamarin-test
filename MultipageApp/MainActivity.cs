@@ -1,4 +1,4 @@
-﻿// Why won't this stupid thing work
+﻿// It worked! I'm awesome
 using System;
 
 using Android.App;
