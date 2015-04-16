@@ -1,4 +1,4 @@
-﻿// Terry is awesome
+﻿// Why won't this stupid thing work
 using System;
 
 using Android.App;
