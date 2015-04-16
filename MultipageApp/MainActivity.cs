@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Terry is awesome
+using System;
 
 using Android.App;
 using Android.Content;
